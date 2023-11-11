@@ -2,7 +2,8 @@
 
 
 
-![2023-11-11_12h17_33](https://github.com/lola07/Hotel-Sales-Dashboard/assets/26351775/59c81969-4519-45af-ba22-642e3d5d170a)
+
+![2023-11-11_13h01_22](https://github.com/lola07/Hotel-Sales-Dashboard/assets/26351775/d2a9a6da-4331-4729-9bef-a81ac5778d45)
 
 
 
