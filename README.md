@@ -1,4 +1,17 @@
 # Hotel Sales-Dashboard
+
+
+
+![2023-11-11_12h17_33](https://github.com/lola07/Hotel-Sales-Dashboard/assets/26351775/59c81969-4519-45af-ba22-642e3d5d170a)
+
+
+
+
+
+
+
+
+
 <h1>About FutureTale Hotel</h1>
 FutureTale Hotel is a modernized hotel with state-of-the-art facilities to give customers undeniable comfort and a good time.
 
