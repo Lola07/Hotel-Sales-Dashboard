@@ -27,7 +27,7 @@ $4.2m loss in revenue due to reservation cancellation
 Reservations peak the most in  October with 5,317 bookings
 Room_Type 1 is the most chosen room with 78% of bookings
 <h3>Recommendations</h3>
-Penalties should be introduced to curb long lead time hence reducing cancellation and revenue loss
-Re-evaluate services provided by room types other than Room_Type 1 to increase their reservation and revenue generation
+Penalties should be introduced to curb late cancellations hence reducing cancellation and revenue loss.
+Re-evaluate services provided by room types other than Room_Type 1 to increase their reservation and revenue generation.
 Promote other reservation channels with add-ins to boost reservation and revenue.
 Effective management between peak and off-peak months to control cost.
